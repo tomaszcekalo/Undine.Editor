@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Undine.Core" Version="0.0.0.9" />
+  </ItemGroup>
+
 </Project>
