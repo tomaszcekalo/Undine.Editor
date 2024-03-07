@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Undine.Editor.Avalonia.Desk
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonoGame.DesktopGL", "MonoGame.DesktopGL\MonoGame.DesktopGL.csproj", "{3BA3CC62-2CFB-4EF6-BF5F-FBC869DE754C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undine.Editor.Forms", "Undine.Editor.Forms\Undine.Editor.Forms.csproj", "{6B5CADC2-02DE-42AC-9C61-C8EA049E2AE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3BA3CC62-2CFB-4EF6-BF5F-FBC869DE754C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BA3CC62-2CFB-4EF6-BF5F-FBC869DE754C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BA3CC62-2CFB-4EF6-BF5F-FBC869DE754C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5CADC2-02DE-42AC-9C61-C8EA049E2AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5CADC2-02DE-42AC-9C61-C8EA049E2AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5CADC2-02DE-42AC-9C61-C8EA049E2AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5CADC2-02DE-42AC-9C61-C8EA049E2AE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
