@@ -467,7 +467,6 @@ namespace Undine.Editor.Forms
     }
     public class Welcome : MonoGameControl
     {
-        string WelcomeMessage = "Welcome to MonoGame.Forms!";
         //public Animation Logo;
         public bool EditMode = false;
         public int LastFrame = 0;

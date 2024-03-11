@@ -4,6 +4,7 @@
     <TargetFramework>net481</TargetFramework>
     <UseWPF>true</UseWPF>
 	  <LangVersion>8.0</LangVersion>
+	  <Nullable>disable</Nullable>
   </PropertyGroup>
   
   <ItemGroup>
