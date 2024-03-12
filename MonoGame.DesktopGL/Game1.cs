@@ -58,7 +58,7 @@ namespace MonoGame.DesktopGL
             // TODO: Add your drawing code here
 
             _spriteBatch.Begin();
-
+            _primitives2DSystem.ProcessAll();
             _spriteBatch.End();
 
             base.Draw(gameTime);

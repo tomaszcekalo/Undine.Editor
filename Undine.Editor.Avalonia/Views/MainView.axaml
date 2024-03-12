@@ -14,7 +14,7 @@
   </Design.DataContext>
 
 	<Grid ColumnDefinitions="*, 200">
-		<TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 		<monoGame:MonoGameControl Game="{Binding CurrentGame}" />
+		<Button Click="Button_Click">button</Button>
 	</Grid>
 </UserControl>
