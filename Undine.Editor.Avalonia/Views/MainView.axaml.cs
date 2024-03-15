@@ -1,7 +1,6 @@
 ﻿using Avalonia.Controls;
 using Avalonia.Interactivity;
 using Undine.Editor.Avalonia.ViewModels;
-using Undine.MinEcs;
 using Undine.MonoGame.Primitives2D;
 using Undine.MonoGame;
 using Microsoft.Xna.Framework;
