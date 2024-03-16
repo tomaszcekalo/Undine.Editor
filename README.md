@@ -19,3 +19,4 @@ How do I get started?
 
 Where can I get more help, if I need it?
 * Hit me up on socials. Links to them you can find on my GitHub profile page: https://github.com/tomaszcekalo .
+
