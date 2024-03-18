@@ -16,4 +16,8 @@
   <ItemGroup>
     <MonoGameContentReference Include="**\*.mgcb" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Undine.Editor\Undine.Editor.csproj" />
+  </ItemGroup>
 </Project>

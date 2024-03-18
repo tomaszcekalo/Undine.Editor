@@ -22,5 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MonoGame.DesktopGL\MonoGame.DesktopGL.csproj" />
+    <ProjectReference Include="..\Undine.Editor\Undine.Editor.csproj" />
   </ItemGroup>
 </Project>
