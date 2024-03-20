@@ -1,7 +1,4 @@
-﻿using System;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
-using Undine.Editor.MonogameWpf.MonoGameControls;
+﻿using Undine.Editor.MonogameWpf.MonoGameControls;
 
 namespace Undine.Editor.MonogameWpf
 {
