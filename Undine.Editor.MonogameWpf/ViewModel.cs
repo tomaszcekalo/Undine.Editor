@@ -1,7 +1,4 @@
-﻿using System.ComponentModel;
-using System.Runtime.CompilerServices;
-
-namespace Undine.Editor.MonogameWpf
+﻿namespace Undine.Editor.MonogameWpf
 {
     public class ViewModel : INotifyPropertyChanged
     {
