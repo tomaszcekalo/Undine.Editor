@@ -17,15 +17,7 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
-using System;
-using System.ComponentModel;
-using System.Diagnostics;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Interop;
-using System.Windows.Media;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
+
 
 namespace Undine.Editor.MonogameWpf.MonoGameControls
 {
