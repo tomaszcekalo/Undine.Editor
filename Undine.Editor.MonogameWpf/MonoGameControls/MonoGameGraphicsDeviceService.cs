@@ -1,10 +1,4 @@
-﻿using System;
-using System.Windows;
-using System.Windows.Interop;
-using Microsoft.Xna.Framework.Graphics;
-using SharpDX.Direct3D9;
-
-namespace Undine.Editor.MonogameWpf.MonoGameControls
+﻿namespace Undine.Editor.MonogameWpf.MonoGameControls
 {
     public class MonoGameGraphicsDeviceService : IGraphicsDeviceService, IDisposable
     {
