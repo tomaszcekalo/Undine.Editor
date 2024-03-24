@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿
 namespace Undine.Editor.MonogameWpf.MonoGameControls
 {
     public class MonoGameServiceProvider : IServiceProvider
