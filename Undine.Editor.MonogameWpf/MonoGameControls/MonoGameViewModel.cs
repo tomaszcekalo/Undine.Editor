@@ -1,10 +1,4 @@
-﻿using System;
-using System.Windows;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.Graphics;
-
-namespace Undine.Editor.MonogameWpf.MonoGameControls
+﻿namespace Undine.Editor.MonogameWpf.MonoGameControls
 {
     public interface IMonoGameViewModel : IDisposable
     {
